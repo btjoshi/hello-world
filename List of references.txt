@@ -11,3 +11,15 @@ Spent some good 10 hours setting up things. Learning Git is not easy!
  Programiz.com - has cool app!!
 https://www.programiz.com/python-programming/examples/add-matrix
 Description -
+
+Day 2 - 24 Nov 2019
+
+Around 6 hours - it sometime gets tricky with need for facetime with family...
+
+https://data-flair.training/blogs/python-tutorials-home/
+Looked cool enough with simpple-feeling short tutorials
+Also has real life ML datasets - seems lika a good place to get hold of realistic projects
+https://data-flair.training/blogs/machine-learning-datasets/
+https://data-flair.training/blogs/data-science-projects-code/
+http://norvig.com/21-days.html
+https://www.practicepython.org/
