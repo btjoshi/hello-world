@@ -16,3 +16,8 @@ https://data-flair.training/blogs/machine-learning-datasets/
 https://data-flair.training/blogs/data-science-projects-code/
 http://norvig.com/21-days.html
 https://www.practicepython.org/
+
+Day 3 - 25 Nov 2019
+
+1.5 hours - after sifting through many tutorials and webpages, made an investment - purchased all the e-bools from Jason Brownlee. His practical building in Python coding through each of these 'play book' is probably what I was searching for.
+
