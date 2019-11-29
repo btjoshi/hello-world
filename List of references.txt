@@ -33,3 +33,6 @@ Day 6 - 28 Nov 2019
 
 2 hours - Chapters 8 - 10 of probability_for_machine_learning. 'Deliberate Practice' is hard!!
 
+Day 7 - 29 Nov 2019
+
+1.5 hours - worked on writing the distribution codes in Jupyter, upto chapter 9. Seems intersting. Realized it is the very act of writing down the codes that is important to get this as Zen. As against always feeling inadequate because simple codes doesnt' come naturally after first reading.
