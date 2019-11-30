@@ -36,3 +36,8 @@ Day 6 - 28 Nov 2019
 Day 7 - 29 Nov 2019
 
 1.5 hours - worked on writing the distribution codes in Jupyter, upto chapter 9. Seems intersting. Realized it is the very act of writing down the codes that is important to get this as Zen. As against always feeling inadequate because simple codes doesnt' come naturally after first reading.
+
+Day 8 - 30 Nov 2019
+
+PU = 20
+about 5 hours - good progress! Worked through upto chapter 15. A perspective change that coding now itself is kind of meditation is hard to remember. Like any other meditation I guess.
