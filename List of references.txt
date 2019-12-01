@@ -41,3 +41,9 @@ Day 8 - 30 Nov 2019
 
 PU = 20
 about 5 hours - good progress! Worked through upto chapter 15. A perspective change that coding now itself is kind of meditation is hard to remember. Like any other meditation I guess.
+
+Day 9 - 1 Dec 2019
+
+about 6 hours - Another solid day - completed noting down upto chapter 18. Need to digest this a bit. Exported my own Jupyter notebook note as html for revision. In the meantime, coming week is lots of hectic.. if I get good an hour a day should be an achivement! Equanimity! Equanimity!! 
+
+Also brought up Mastering ML by Ted Petrou - need to get on with regular practice. The book  robability_for_machine_learning is good. But leaning on theory only may not be ideal. 
